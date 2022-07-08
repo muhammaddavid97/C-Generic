@@ -1,0 +1,15 @@
+D:\Basic C#\Generic\Quiz\Quiz\bin\Debug\net6.0\Quiz.exe
+D:\Basic C#\Generic\Quiz\Quiz\bin\Debug\net6.0\Quiz.deps.json
+D:\Basic C#\Generic\Quiz\Quiz\bin\Debug\net6.0\Quiz.runtimeconfig.json
+D:\Basic C#\Generic\Quiz\Quiz\bin\Debug\net6.0\Quiz.dll
+D:\Basic C#\Generic\Quiz\Quiz\bin\Debug\net6.0\Quiz.pdb
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\Quiz.csproj.AssemblyReference.cache
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\Quiz.dll
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\refint\Quiz.dll
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\Quiz.pdb
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
+D:\Basic C#\Generic\Quiz\Quiz\obj\Debug\net6.0\ref\Quiz.dll
